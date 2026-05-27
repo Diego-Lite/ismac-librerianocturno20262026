@@ -7,7 +7,7 @@ import jakarta.persistence.*;
 @Table(name= "cliente")
 public class Cliente {
 
-//hola mundo
+//hola mundo ;)
 
 
     //atributos
