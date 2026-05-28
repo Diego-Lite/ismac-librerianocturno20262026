@@ -23,5 +23,6 @@ public class AutorTest {
         assertEquals("Garcia Marquez", autor.getApellido());
         assertEquals("Colombiano", autor.getNacionalidad());
     }
+
 }
 
